@@ -74,6 +74,14 @@ root@util:~# resize2fs /dev/mapper/ubuntu--vg-ubuntu--lv
 ```
 
 
+## New PHP Site
+
+**Demo2**
+Application: Laravel 11
+Domain Name: demo2.cloudpanel.site
+PHP Version: PHP 8.3
+Site SSH User: cloudpanel-demo2
+Site User Password: YzASRA5TDkdquQ8xrfgW
 
 
 * * *

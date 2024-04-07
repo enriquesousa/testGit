@@ -30,4 +30,7 @@ https://www.cloudpanel.io/tutorial/how-to-host-multiple-websites-on-one-server/
 ## CloudPanel Tutorials
 https://www.cloudpanel.io/tutorials/
 
-    
+
+## Part 1 - NGINX Web Server ( Installation & Configuration )
+https://www.youtube.com/watch?v=RzrIqzC9bQc
+

@@ -34,3 +34,7 @@ https://www.cloudpanel.io/tutorials/
 ## Part 1 - NGINX Web Server ( Installation & Configuration )
 https://www.youtube.com/watch?v=RzrIqzC9bQc
 
+
+## Miércoles 14/Abr/24
+Compre Dominio HostGator
+Nombre de Dominio : `tjweb.com.mx`

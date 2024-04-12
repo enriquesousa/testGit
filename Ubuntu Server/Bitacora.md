@@ -38,3 +38,8 @@ https://www.youtube.com/watch?v=RzrIqzC9bQc
 ## Miércoles 14/Abr/24
 Compre Dominio HostGator
 Nombre de Dominio : `tjweb.com.mx`
+
+## Jueves 15/Abr/24
+Iniciar configurar plantilla para MyBlog
+'En /home/enrique/pCloudDrive/Sites/recursos/bootstrapmade/MyPortfolio'
+

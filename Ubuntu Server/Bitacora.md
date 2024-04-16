@@ -46,3 +46,8 @@ Iniciar configurar plantilla para MyBlog
 ## Viernes 12/Abr/24
 Continuar Modificando:
 'En /home/enrique/pCloudDrive/Sites/recursos/bootstrapmade/MyPortfolio'
+
+## Lunes 15/Abr/24
+ssh keys para github desde laptop latitude
+Iniciar myProfileBlog en Latitude
+

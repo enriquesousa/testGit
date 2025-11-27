@@ -14,3 +14,5 @@ Hasta este momento, nuestras consultas solo habían solicitado datos de una tabl
 En **SQL**, la selección de datos en varias tablas se denomina `JOIN`. Hay muchos tipos de combinaciones según cómo desee combinar las filas. Hay combinaciones `INNER` y `OUTER`. También puede realizar combinaciones `LEFT`, `RIGHT`, `FULL`y `CROSS`. Pero el más fácil es `NATURAL JOIN`, que es con el que comenzaremos aquí. Guardaremos los otros tipos de uniones para futuras prácticas.
 
 Test
+
+Test home

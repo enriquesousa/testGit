@@ -24,3 +24,5 @@ Test viña navideña el vergel
 Reparamos centro de carga de mi casa. Con David e Ivonne todo el día hoy sábado 
 
 Test cass
+
+Preparar clase ini redes locales cbtis
